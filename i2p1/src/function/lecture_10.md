@@ -155,7 +155,7 @@ Example:
     add(a, b); // function call, order is important
 ```
 
-Note: 放參數的順序和數量一定要和 function 定義的順序一樣，數量不同會 comiple 錯誤，
+Note: 放參數的順序和數量一定要和 function 定義的順序一樣，數量不同會 compile 錯誤，
 順序不同意思不同，而且可能形成 compiler 無法揪錯，直到執行階段才有機會被發掘的重大錯誤。
 
 Wrong example:
